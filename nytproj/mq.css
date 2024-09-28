@@ -1,0 +1,129 @@
+
+ 
+  @media screen and (min-width: 640px) {
+    body {
+      font-size: 2rem;
+
+    }
+    .title h1{
+        font-size: 3rem;
+    }
+    header h2{
+      font-size: 1.5rem;
+    } 
+  }
+  
+
+  @media screen and (min-width: 1024px) {
+    body {
+      font-size: 3rem;
+    }
+
+    .title h1{
+        font-size: 5.2rem;
+    }
+    header h2{
+      font-size: 2.2rem;
+    } 
+
+    .home{
+      font-size: 3rem;
+    }
+
+    
+    .home h1{
+      font-size: 5rem;
+     
+     
+  }
+
+   
+  }
+  
+
+  @media screen and (max-width: 640px) {
+    body {
+      font-size: 1.1rem;
+    }
+    .title h1{
+        font-size: 2.5rem;
+    }
+    header h2{
+      font-size: 1.1rem;
+    } 
+    .home{
+        grid-template-columns:2fr 1fr 3fr 1fr ;
+        grid-template-rows:0.2fr 0.1fr 2fr 1fr;
+        grid-template-areas: 
+        "title title title date"
+        "line line line line"
+        "con con con con"
+        "choices choices choices choices"
+
+    }
+
+    .choices{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr;
+        grid-template-areas: 
+             "news1 news2";
+
+    }
+
+    .con{
+        grid-column-start: 1;
+        grid-column-end:5 ;
+      
+    }
+    .homepage{
+        grid-template-columns: 2fr 2fr 3fr 0.8fr 1.2fr ;
+        grid-template-rows: 4fr 4fr;
+        grid-template-areas: 
+        "main main main main main"
+        "content content content content"
+
+        ;
+
+    }
+
+    .main{
+         
+        grid-template-columns: 1fr;
+        grid-template-rows:1fr 1fr ;
+        grid-template-areas: 
+             "hpdiv"
+             "divhp"
+        ;
+
+        grid-column-start: 1;
+        grid-column-end: 6;
+
+
+    }
+
+    .main_science{
+        grid-column-start:1 ;
+        grid-column-end: 6;
+    }
+    .content{
+        display: none;
+    }
+    .content_sc{
+        display: none;
+    }
+  }
+  
+  .s_pic{
+    width: 100%;
+    left: 10px;
+    justify-content: end;
+
+  }
+
+  .pic_s{
+    justify-self: left;
+  }
+
+  .h_pic{
+    width: 100%;
+  }

@@ -1,0 +1,12 @@
+{
+    "status": "OK",
+    "results": {
+        "books": [
+            {
+                "rank": 1,
+                "title": "Sample Book",
+                "description": "This is a sample book description."
+            }
+        ]
+    }
+}

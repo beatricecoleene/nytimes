@@ -1,0 +1,17 @@
+{
+  "name": "bea",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel nytproj/main.html",
+    "build": "parcel build --public-url https://beatricecoleene.github.io/nytimes nytproj/main.html",
+    "dev": "parcel serve nytproj/main.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
