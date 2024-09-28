@@ -1,5 +1,5 @@
 
-const API_URL = 'https://api.nytimes.com/svc/topstories/v2/home.json?api-key=K5zsJoRkJJVRrQFqJTEJu5fKWovOs4zY';
+const API_URL = 'https://api.nytimes.com/svc/topstories/v2/home.json?api-key=97zXQe2xFEgof5GnbruLZzfXhuzsW9Qn';
 
 const TopNews= document.getElementById('caption_');
 
@@ -95,15 +95,15 @@ function showRecent(){
 
 
 
-// document.getElementById('homepage_h').addEventListener('click', (e)=>{
-//     e.preventDefault();
-//     showHomepage();
-// })
+document.getElementById('homepage_h').addEventListener('click', (e)=>{
+    e.preventDefault();
+    showHomepage();
+})
 
-// document.getElementById('recent_h').addEventListener('click', (e) =>{
-//     e.preventDefault();
-//     showRecent();
-// })
+document.getElementById('recent_h').addEventListener('click', (e) =>{
+    e.preventDefault();
+    showRecent();
+})
 
 
 
