@@ -26,7 +26,7 @@ const update_maincont =(data) =>{
         const hp_content= document.createElement('div');
         hp_content.setAttribute('class', 'hp_cont');
         hp_content.innerHTML=`  <a href='${news?.url}'><p id= "sectionsub" style= "text-transform: capitalize; color:#131959">${news?.section}: ${news?.subsection}</p>
-            <h3>${news?.title}</h3></a>`;
+            <h3!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!>${news?.title}</h3></a>`;
 
 
         hp_content.addEventListener('click', () =>{
