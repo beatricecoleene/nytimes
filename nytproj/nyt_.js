@@ -55,9 +55,9 @@ const updateContainer = (data) =>{
 
        
 
-      const titleElement = newsContainer.querySelector('h2');
+    //   const titleElement = newsContainer.querySelector('h2');
         
-        titleElement.style.color='white';
+    //     titleElement.style.color='white';
         
 
         
@@ -97,17 +97,6 @@ function showRecent(){
 
 
 
-
-
-document.getElementById('homepage').addEventListener('click', (e)=>{
-    e.preventDefault();
-    showHomepage();
-})
-
-document.getElementById('recent_n').addEventListener('click', (e) =>{
-    e.preventDefault();
-    showRecent();
-})
 
 
 
