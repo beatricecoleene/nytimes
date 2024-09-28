@@ -19,7 +19,7 @@ export const gethp= async () =>{
         return []; 
     }
 
-};
+}; 
 
 const updateHomepage = (data) => { 
     // hp_sub.innerHTML=``;
