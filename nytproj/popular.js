@@ -1,4 +1,4 @@
-const API_URL = 'https://api.nytimes.com/svc/mostpopular/v2/viewed/1.json?api-key=K5zsJoRkJJVRrQFqJTEJu5fKWovOs4zY';
+const API_URL = 'https://api.nytimes.com/svc/mostpopular/v2/viewed/1.json?api-key=97zXQe2xFEgof5GnbruLZzfXhuzsW9Qn';
 
 const hpcont= document.getElementById('content_hp');
 const sc_cont = document.getElementById('contentsc');
