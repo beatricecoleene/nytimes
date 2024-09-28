@@ -1,13 +1,13 @@
 5892
-52/home/beatricecoleene/bea/dist/main.c6ca2cce.css.map1727501830220063700 0
-48/home/beatricecoleene/bea/dist/main.c6ca2cce.css1727501830210063707 0
-40/home/beatricecoleene/bea/dist/main.html1727501830210063707 0
+44/home/beatricecoleene/bea/nytproj/index.html1727501257920521266 0
+52/home/beatricecoleene/bea/dist/main.c6ca2cce.css.map1727502496719533589 0
+48/home/beatricecoleene/bea/dist/main.c6ca2cce.css1727502496699533605 0
+40/home/beatricecoleene/bea/dist/main.html1727502496699533605 0
 43/home/beatricecoleene/bea/package-lock.json1727376578334514507 0
 45/home/beatricecoleene/bea/.vscode/launch.json1726921856078409949 0
 33/home/beatricecoleene/bea/.vscode1726921824828434175 1
 42/home/beatricecoleene/bea/nytproj/books.js1727080977348688607 0
 45/home/beatricecoleene/bea/nytproj/homepage.js1727498597332631468 0
-43/home/beatricecoleene/bea/nytproj/main.html1727501257920521266 0
 40/home/beatricecoleene/bea/nytproj/mq.css1727498958822351414 0
 42/home/beatricecoleene/bea/nytproj/index.js1727459338886693708 0
 43/home/beatricecoleene/bea/nytproj/arts.json1726654230231781200 0
@@ -2649,7 +2649,7 @@
 78/home/beatricecoleene/bea/node_modules/@parcel/core/test/InternalAsset.test.js1726940315620785120 0
 62/home/beatricecoleene/bea/node_modules/js-yaml/lib/type/map.js1726940314780785824 0
 81/home/beatricecoleene/bea/node_modules/@parcel/packager-js/lib/CJSOutputFormat.js1726940313780786660 0
-51/home/beatricecoleene/bea/dist/main.071a9b39.js.map1727501830220063700 0
+51/home/beatricecoleene/bea/dist/main.071a9b39.js.map1727502496719533589 0
 64/home/beatricecoleene/bea/node_modules/@parcel/core/src/types.js1726940315920784870 0
 92/home/beatricecoleene/bea/node_modules/css-select/node_modules/domhandler/lib/index.d.ts.map1726940314460786090 0
 92/home/beatricecoleene/bea/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/index.js1726940313930786533 0
@@ -4286,7 +4286,7 @@
 60/home/beatricecoleene/bea/node_modules/is-json/test/index.js1726940313990786483 0
 80/home/beatricecoleene/bea/node_modules/@parcel/optimizer-css/src/CSSOptimizer.js1726940313920786542 0
 98/home/beatricecoleene/bea/node_modules/@swc/helpers/esm/_class_static_private_field_destructure.js1726940316160784670 0
-30/home/beatricecoleene/bea/dist1727501830150063756 1
+30/home/beatricecoleene/bea/dist1727502496689533612 1
 67/home/beatricecoleene/bea/node_modules/escape-string-regexp/license1726940313770786668 0
 72/home/beatricecoleene/bea/node_modules/escape-string-regexp/package.json1726940313610786802 0
 65/home/beatricecoleene/bea/node_modules/@parcel/graph/package.json1726940314780785824 0
@@ -4450,7 +4450,7 @@
 51/home/beatricecoleene/bea/node_modules/css-tree/lib1726940316030784778 1
 61/home/beatricecoleene/bea/node_modules/css-tree/lib/tokenizer1726940316020784786 1
 67/home/beatricecoleene/bea/node_modules/electron-to-chromium/LICENSE1726940313620786794 0
-30/home/beatricecoleene/bea/docs1727501638680212298 1
+30/home/beatricecoleene/bea/docs1727502489809538906 1
 56/home/beatricecoleene/bea/node_modules/@parcel/core/test1726940315930784862 1
 70/home/beatricecoleene/bea/node_modules/css-tree/lib/tokenizer/index.js1726940315920784870 0
 70/home/beatricecoleene/bea/node_modules/css-tree/lib/tokenizer/names.js1726940315950784844 0
@@ -5654,7 +5654,7 @@
 83/home/beatricecoleene/bea/node_modules/@swc/helpers/_/_async_generator/package.json1726940314610785967 0
 80/home/beatricecoleene/bea/node_modules/@swc/helpers/_/_skip_first_generator_next1726940315880784904 1
 86/home/beatricecoleene/bea/node_modules/@swc/helpers/_/_is_native_function/package.json1726940315750785012 0
-47/home/beatricecoleene/bea/dist/main.071a9b39.js1727501830210063707 0
+47/home/beatricecoleene/bea/dist/main.071a9b39.js1727502496699533605 0
 74/home/beatricecoleene/bea/node_modules/@swc/helpers/_/_array_like_to_array1726940314120786374 1
 89/home/beatricecoleene/bea/node_modules/@swc/helpers/_/_class_apply_descriptor_destructure1726940314870785748 1
 87/home/beatricecoleene/bea/node_modules/@swc/helpers/esm/_possible_constructor_return.js1726940316200784636 0
