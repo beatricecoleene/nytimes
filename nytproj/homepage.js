@@ -3,7 +3,7 @@
 // const API_URL =
 // 'https://api.nytimes.com/svc/topstories/v2/arts.json?api-key={token}';
 
-const API_URL='https://api.nytimes.com/svc/news/v3/content/nyt/world.json?api-key=K5zsJoRkJJVRrQFqJTEJu5fKWovOs4zY';
+const API_URL='https://api.nytimes.com/svc/topstories/v2/home.json?api-key=K5zsJoRkJJVRrQFqJTEJu5fKWovOs4zY';
 
 const HomePage = document.getElementById('homepage_div');
 const DivHp= document.getElementById('divhp');
