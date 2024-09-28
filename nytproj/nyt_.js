@@ -95,15 +95,15 @@ function showRecent(){
 
 
 
-document.getElementById('homepage_h').addEventListener('click', (e)=>{
-    e.preventDefault();
-    showHomepage();
-})
+// document.getElementById('homepage_h').addEventListener('click', (e)=>{
+//     e.preventDefault();
+//     showHomepage();
+// })
 
-document.getElementById('recent_h').addEventListener('click', (e) =>{
-    e.preventDefault();
-    showRecent();
-})
+// document.getElementById('recent_h').addEventListener('click', (e) =>{
+//     e.preventDefault();
+//     showRecent();
+// })
 
 
 
