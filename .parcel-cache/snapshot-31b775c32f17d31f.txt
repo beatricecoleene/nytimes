@@ -509,7 +509,7 @@
 75/home/beatricecoleene/bea/node_modules/caniuse-lite/data/features/srcset.js1726940316370784494 0
 68/home/beatricecoleene/bea/node_modules/css-select/lib/esm/types.d.ts1726940315270785413 0
 79/home/beatricecoleene/bea/node_modules/css-select/node_modules/domutils/LICENSE1726940313710786718 0
-52/home/beatricecoleene/bea/dist/index.071a9b39.js.map1727505156037445820 0
+52/home/beatricecoleene/bea/dist/index.071a9b39.js.map1727506257386573556 0
 65/home/beatricecoleene/bea/node_modules/@parcel/optimizer-svgo/lib1726940313740786693 1
 87/home/beatricecoleene/bea/node_modules/css-select/node_modules/entities/lib/encode.d.ts1726940315180785489 0
 68/home/beatricecoleene/bea/node_modules/css-select/lib/esm/general.js1726940314580785991 0
@@ -889,7 +889,7 @@
 88/home/beatricecoleene/bea/node_modules/@parcel/runtime-js/lib/helpers/node/css-loader.js1726940314490786065 0
 64/home/beatricecoleene/bea/node_modules/semver/ranges/simplify.js1726940314840785774 0
 97/home/beatricecoleene/bea/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/utils1726940315630785112 1
-41/home/beatricecoleene/bea/nytproj/nyt_.js1727506257226573684 0
+41/home/beatricecoleene/bea/nytproj/nyt_.js1727506768916168810 0
 116/home/beatricecoleene/bea/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/addAttributesToSVGElement.js1726940314430786116 0
 83/home/beatricecoleene/bea/node_modules/@parcel/runtime-js/lib/helpers/bundle-url.js1726940314030786450 0
 74/home/beatricecoleene/bea/node_modules/css-tree/lib/syntax/pseudo/index.js1726940315910784878 0
@@ -2157,7 +2157,7 @@
 68/home/beatricecoleene/bea/node_modules/css-tree/lib/lexer/generic.js1726940315880784904 0
 115/home/beatricecoleene/bea/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer/generic-urange.js1726940315400785305 0
 62/home/beatricecoleene/bea/node_modules/@parcel/core/lib/public1726940315870784912 1
-41/home/beatricecoleene/bea/dist/index.html1727505208757404987 0
+41/home/beatricecoleene/bea/dist/index.html1727506019166757808 0
 93/home/beatricecoleene/bea/node_modules/@parcel/workers/test/integration/workerfarm/logging.js1726940314690785898 0
 56/home/beatricecoleene/bea/node_modules/js-yaml/README.md1726940314890785731 0
 127/home/beatricecoleene/bea/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/pseudo-selectors/filters.d.ts.map1726940314610785967 0
@@ -2358,7 +2358,7 @@
 89/home/beatricecoleene/bea/node_modules/caniuse-lite/data/features/css-deviceadaptation.js1726940315730785028 0
 61/home/beatricecoleene/bea/node_modules/@parcel/fs/src/find.js1726940314000786474 0
 56/home/beatricecoleene/bea/node_modules/lmdb/util/when.js1726940315850784928 0
-53/home/beatricecoleene/bea/dist/index.2f77c048.css.map1727505559387127034 0
+53/home/beatricecoleene/bea/dist/index.2f77c048.css.map1727506412486448407 0
 75/home/beatricecoleene/bea/node_modules/css-tree/lib/syntax/scope/default.js1726940315850784928 0
 67/home/beatricecoleene/bea/node_modules/@lezer/common/dist/index.cjs1726940314000786474 0
 92/home/beatricecoleene/bea/node_modules/css-select/node_modules/domutils/lib/helpers.d.ts.map1726940314700785890 0
@@ -2448,7 +2448,7 @@
 91/home/beatricecoleene/bea/node_modules/css-select/node_modules/entities/lib/esm/escape.d.ts1726940315200785472 0
 59/home/beatricecoleene/bea/node_modules/@swc/helpers/_/index1726940316020784786 1
 53/home/beatricecoleene/bea/dist/index.f09e983c.css.map1727503238998959003 0
-49/home/beatricecoleene/bea/dist/index.2f77c048.css1727505559387127034 0
+49/home/beatricecoleene/bea/dist/index.2f77c048.css1727506412486448407 0
 117/home/beatricecoleene/bea/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/filters.js1726940314140786357 0
 62/home/beatricecoleene/bea/node_modules/@parcel/rust/browser.js1726940313840786609 0
 38/home/beatricecoleene/bea/package.json1727502540329499500 0
@@ -2489,7 +2489,7 @@
 93/home/beatricecoleene/bea/node_modules/@parcel/core/test/fixtures/custom-targets/package.json1726940315980784820 0
 94/home/beatricecoleene/bea/node_modules/csso/node_modules/css-tree/lib/tokenizer/TokenStream.js1726940316010784794 0
 77/home/beatricecoleene/bea/node_modules/@parcel/packager-js/lib/dev-prelude.js1726940313920786542 0
-42/home/beatricecoleene/bea/nytproj/main.css1727506412436448445 0
+42/home/beatricecoleene/bea/nytproj/main.css1727506724856202635 0
 64/home/beatricecoleene/bea/node_modules/@parcel/core/package.json1726940315950784844 0
 69/home/beatricecoleene/bea/node_modules/@parcel/core/lib/AssetGraph.js1726940314970785665 0
 44/home/beatricecoleene/bea/nytproj/popular.js1727499369402018124 0
@@ -4279,7 +4279,7 @@
 60/home/beatricecoleene/bea/node_modules/is-json/test/index.js1726940313990786483 0
 80/home/beatricecoleene/bea/node_modules/@parcel/optimizer-css/src/CSSOptimizer.js1726940313920786542 0
 98/home/beatricecoleene/bea/node_modules/@swc/helpers/esm/_class_static_private_field_destructure.js1726940316160784670 0
-30/home/beatricecoleene/bea/dist1727505559387127034 1
+30/home/beatricecoleene/bea/dist1727506412486448407 1
 67/home/beatricecoleene/bea/node_modules/escape-string-regexp/license1726940313770786668 0
 72/home/beatricecoleene/bea/node_modules/escape-string-regexp/package.json1726940313610786802 0
 65/home/beatricecoleene/bea/node_modules/@parcel/graph/package.json1726940314780785824 0
@@ -5091,7 +5091,7 @@
 72/home/beatricecoleene/bea/node_modules/lmdb/dependencies/lz4/lib/lz4hc.h1726940315790784978 0
 62/home/beatricecoleene/bea/node_modules/semver/classes/range.js1726940314750785849 0
 67/home/beatricecoleene/bea/node_modules/semver/classes/comparator.js1726940313980786492 0
-48/home/beatricecoleene/bea/dist/index.071a9b39.js1727505156037445820 0
+48/home/beatricecoleene/bea/dist/index.071a9b39.js1727506257386573556 0
 72/home/beatricecoleene/bea/node_modules/dom-serializer/lib/esm/index.d.ts1726940314540786024 0
 56/home/beatricecoleene/bea/node_modules/semver/preload.js1726940314740785857 0
 64/home/beatricecoleene/bea/node_modules/@swc/helpers/src/_jsx.mjs1726940316280784571 0
